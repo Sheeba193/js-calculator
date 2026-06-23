@@ -23,9 +23,10 @@ body{
     background-color: hsl(0, 5%, 15%);
     color: white;
     border: 0;
-    height: 5rem;
+    height: 6rem;
     text-align: left;
     width: 100%;
+    font-size: 2rem;
 }
 
 #keys{
@@ -63,6 +64,7 @@ button:active{
 .operator-btn:active{
     background-color: hsl(35, 100%, 35%);
 }
+
 .clear-btn:hover{
     background-color: hsl(35, 100%, 45%);
 }
