@@ -32,6 +32,10 @@ calculator-app/
 └── README.md
 ```
 
+## Project Preview
+<img width="766" height="838" alt="image" src="https://github.com/user-attachments/assets/3a3a73b4-8541-4cd7-8944-616d050ee9cf" />
+
+
 ## How to Run the Project
 
 1. Clone the repository:
